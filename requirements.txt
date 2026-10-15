@@ -3,3 +3,5 @@ torchvision
 timm
 pyyaml
 tqdm
+gdown
+huggingface-hub
